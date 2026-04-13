@@ -33,7 +33,7 @@
     "eslint-plugin-markdown": "^2.2.1",
     "fork-ts-checker-webpack-plugin": "^7.2.13",
     "fs-extra": "^11.1.0",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "hint": "^7.1.13",
     "inquirer": "^8.2.2",
     "npm-run-all": "^4.1.5",
@@ -44,7 +44,7 @@
     "sinon": "^13.0.1",
     "ts-loader": "^9.4.2",
     "typescript": "^4.5.5",
-    "webpack": "^5.76.0",
+    "webpack": "^5.104.1",
     "webpack-cli": "^4.9.1"
   },
   "engines": {
